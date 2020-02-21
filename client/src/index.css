@@ -61,6 +61,25 @@ body {
   padding: 5px 10px;
   background-color: lightseagreen;
 }
+
+.delete {
+  position: absolute;
+  top: 25px;
+  left: 1250px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+}
+
+.edit {
+  position: absolute;
+  top: 25px;
+  left: 1150px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+}
+
 .save-button:hover {
   background-color: green;
   color: white;
